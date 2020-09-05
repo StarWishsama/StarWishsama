@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 🔭 Working on Comet-Bot, A bot retrieve message about Vtubers!
+
 🌱 Java & Kotlin Learning | Ready to Go & TypeScript
 
 [![StarWishsama's github stats](https://github-readme-stats.vercel.app/api?username=starwishsama&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
