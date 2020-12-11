@@ -1,4 +1,4 @@
-### Ahoy! 👋
+### Yaho! 👋
 
 <!--
 **StarWishsama/StarWishsama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 Working on Comet-Bot, A bot retrieve message about Vtubers!
+🔭 Working on Comet-Bot, A bot which have plenty of feature!
 
-🌱 Java & Kotlin Learning | Ready to Go & TypeScript
+🌱 Java & Kotlin & Go Learning | Ready to Python & TypeScript
 
 [![StarWishsama's github stats](https://github-readme-stats.vercel.app/api?username=starwishsama&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
