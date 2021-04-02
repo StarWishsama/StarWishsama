@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🔭 Working on Comet-Bot and Hina, A bot and a wrapper supported OneBot!
 
-🌱 Java & Kotlin & Go Learning | Ready to Python & C
+🌱 Java & Kotlin & Go Learning | Planning to learn Python & C#
 
 [![StarWishsama's github stats](https://github-readme-stats.vercel.app/api?username=starwishsama&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
