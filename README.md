@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 Working on Comet-Bot and Hina, A bot and a wrapper supported OneBot!
+🔭 Maintaining Comet-Bot, A bot used Mirai!
+🔭 Ready to write Twitch Auto watcher
 
 🌱 Java & Kotlin & Go Learning | Planning to learn Python & C#
 
