@@ -4,7 +4,7 @@
 
 🔭 Working on a Twitch Auto watcher
 
-🌱 Java & Kotlin & Go & Flutter Learning
+🌱 Java & Kotlin & Go Learning
 
 🕓 Planning to learn TypeScript + AngularJS (NEW!) | Python | C#
 
