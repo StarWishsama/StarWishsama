@@ -6,7 +6,7 @@
 - 💬 [Steam > NatsuHana.](https://steamcommunity.com/profiles/76561198363524985/) | [Bangumi > NatsuHanA](https://bangumi.tv/user/627053) 
 
 
-Current using languages/tools:
+<h3 align="center">:books: Tools and languages</h3>
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
