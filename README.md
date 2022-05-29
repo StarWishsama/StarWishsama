@@ -4,7 +4,16 @@
 
 - 🔭 Maintaining [Comet-Bot](https://github.com/StarWishsama/Comet-Bot) | [Twitch-Watcher (WIP)](https://github.com/StarWishsama/Twitch-Watcher) 
 - 💬 [Steam > NatsuHana.](https://steamcommunity.com/profiles/76561198363524985/) | [Bangumi > NatsuHanA](https://bangumi.tv/user/627053) 
-- 🌱 Learning Java, Kotlin and Go | 🕓 Planning to learn Rust, TypeScript, Python, C# (Ordered by interest level)
+
+
+Current using languages/tools:
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
 [![StarWishsama's github stats](https://github-readme-stats.vercel.app/api?username=starwishsama&role=ORGANIZATION_MEMBER,OWNER,COLLABORATOR&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
