@@ -16,6 +16,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
+<h3 align="center">⭐ Github Stats</h3>
+
 [![StarWishsama's github stats](https://github-readme-stats.vercel.app/api?username=starwishsama&role=ORGANIZATION_MEMBER,OWNER,COLLABORATOR&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starwishsama&layout=compact&role=ORGANIZATION_MEMBER,OWNER,COLLABORATOR&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
