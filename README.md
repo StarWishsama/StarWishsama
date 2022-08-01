@@ -21,6 +21,7 @@
 
 <h3 align="center">⭐ Github Stats</h3>
 
-[![StarWishsama's github stats](https://github-readme-stats.vercel.app/api?username=starwishsama&role=ORGANIZATION_MEMBER,OWNER,COLLABORATOR&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starwishsama&layout=compact&role=ORGANIZATION_MEMBER,OWNER,COLLABORATOR&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://raw.githubusercontent.com/StarWishsama/StarWishsama/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/StarWishsama/StarWishsama/master/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/StarWishsama/StarWishsama/master/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/StarWishsama/StarWishsama/master/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/StarWishsama/StarWishsama/master/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=wetabq&layout=compact&theme=github)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
