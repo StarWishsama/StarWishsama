@@ -26,4 +26,14 @@
 [![](https://raw.githubusercontent.com/StarWishsama/StarWishsama/master/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/StarWishsama/StarWishsama/master/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <!--START_SECTION:waka-->
+
+```text
+Kotlin           13 hrs 1 min    ███████████████████████░░   91.42 %
+Properties       24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+textmate         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+XML              13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+Text             12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+GitIgnore file   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+```
+
 <!--END_SECTION:waka-->
