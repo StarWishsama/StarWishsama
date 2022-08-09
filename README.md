@@ -1,9 +1,8 @@
 ### <h2 align="center">Hello! 👋 NoRain City here!</h2>
 
-- Student at High school | Newbie in software development
+- Student at University in software engineering
 
 - 🔭 Maintaining [Comet-Bot](https://github.com/StarWishsama/Comet-Bot) | [Twitch-Watcher (WIP)](https://github.com/StarWishsama/Twitch-Watcher) 
-- 💬 [Steam > NatsuHana.](https://steamcommunity.com/profiles/76561198363524985/) | [Bangumi > NatsuHanA](https://bangumi.tv/user/627053) 
 
 
 <h3 align="center">:books: Tools and languages</h3>
@@ -24,6 +23,8 @@
 [![](https://raw.githubusercontent.com/StarWishsama/StarWishsama/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/StarWishsama/StarWishsama/master/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/StarWishsama/StarWishsama/master/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/StarWishsama/StarWishsama/master/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/StarWishsama/StarWishsama/master/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+<h3 align="center">⏰ WakaTime Stats</h3>
 
 <!--START_SECTION:waka-->
 
