@@ -8,7 +8,7 @@
 <h3 align="center">:books: Tools and languages</h3>
 
 <p align="center">
-<img src="https://shields.io/badge/-systems-black?style=for-the-badge" alt="Systems"><img src="[https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)" alt="Windows"/><img 
+<img src="https://shields.io/badge/-systems-black?style=for-the-badge" alt="Systems"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/><img 
 src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"><img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
 </p>
 
