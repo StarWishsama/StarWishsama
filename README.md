@@ -31,12 +31,12 @@ src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=androi
 <!--START_SECTION:waka-->
 
 ```text
-Kotlin           23 hrs 42 mins  ███████████████████████░░   92.45 %
-Properties       53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
-JSON             15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-XML              14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
-Markdown         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-AUTO_DETECTED    5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Kotlin           20 hrs 31 mins  ███████████████████████░░   92.12 %
+Docker           24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+JSON             15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+XML              14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+Docker File      13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+Markdown         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 ```
 
 <!--END_SECTION:waka-->
