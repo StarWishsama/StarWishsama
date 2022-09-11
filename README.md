@@ -31,12 +31,12 @@ src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=androi
 <!--START_SECTION:waka-->
 
 ```text
-Kotlin           13 hrs 3 mins   █████████████████▒░░░░░░░   69.62 %
-YAML             1 hr 39 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
-Go               53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
-Rust             43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
-Bash             29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
-C                26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+Kotlin           13 hrs 58 mins  ██████████████████▓░░░░░░   75.29 %
+C                1 hr 16 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
+Rust             41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
+ObjectiveC       34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+Bash             29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
+Text             20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
 ```
 
 <!--END_SECTION:waka-->
