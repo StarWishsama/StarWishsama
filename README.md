@@ -31,12 +31,11 @@ src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=androi
 <!--START_SECTION:waka-->
 
 ```text
-Kotlin           6 hrs 1 min     █████████████████▓░░░░░░░   70.50 %
-TOML             52 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.25 %
-C                39 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
-ObjectiveC       36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
-Docker           6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
-Rust             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+Kotlin           7 hrs 23 mins   ████████████████▓░░░░░░░░   66.61 %
+TOML             1 hr 17 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
+C                49 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
+ObjectiveC       43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 %
+Other            12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
 ```
 
 <!--END_SECTION:waka-->
