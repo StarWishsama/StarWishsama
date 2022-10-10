@@ -31,11 +31,11 @@ src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=androi
 <!--START_SECTION:waka-->
 
 ```text
-Kotlin           7 hrs 23 mins   ████████████████▓░░░░░░░░   66.61 %
-TOML             1 hr 17 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
-C                49 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
-ObjectiveC       43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 %
-Other            12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+Kotlin           9 hrs 34 mins   ██████████████████░░░░░░░   72.00 %
+TOML             1 hr 17 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.68 %
+C                49 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
+ObjectiveC       44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
+Other            12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
 ```
 
 <!--END_SECTION:waka-->
