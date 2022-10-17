@@ -2,7 +2,8 @@
 
 - Student at University in software engineering
 
-- 🔭 Maintaining [Comet-Bot](https://github.com/StarWishsama/Comet-Bot) | [Twitch-Watcher (WIP)](https://github.com/StarWishsama/Twitch-Watcher) 
+- 🔭 Maintaining [Comet-Bot](https://github.com/StarWishsama/Comet-Bot) | [Setsuna](https://github.com/StarWishsama/Setsuna) 
+- 🔨 And a minecraft plugin called [Slimefun4](https://github.com/Slimefun/Slimefun4)
 
 
 <h3 align="center">:books: Tools and languages</h3>
