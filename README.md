@@ -32,8 +32,9 @@ src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=androi
 <!--START_SECTION:waka-->
 
 ```text
-Kotlin         14 hrs 39 mins  ██████████████████████▓░░   90.25 %
-Other          28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+Kotlin         15 hrs 10 mins  █████████████████████░░░░   84.42 %
+Rust           40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
+Other          28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
 ```
 
 <!--END_SECTION:waka-->
