@@ -32,12 +32,12 @@ src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=androi
 <!--START_SECTION:waka-->
 
 ```text
-Kotlin            8 hrs 4 mins    █████████████████████▓░░░   86.23 %
-YAML              32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
-Java              18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
-JSON              9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-Properties        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
-Protocol Buffer   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+Kotlin            8 hrs 15 mins   █████████████████████▒░░░   85.78 %
+YAML              37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
+Java              18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+JSON              9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+Properties        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+Protocol Buffer   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
 ```
 
 <!--END_SECTION:waka-->
