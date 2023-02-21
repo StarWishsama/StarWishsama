@@ -32,12 +32,12 @@ src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=androi
 <!--START_SECTION:waka-->
 
 ```text
-YAML             3 hrs 10 mins   ████████████▓░░░░░░░░░░░░   51.14 %
-Kotlin           1 hr 35 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.53 %
-Docker           48 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.09 %
-Properties       12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
-EditorConfig     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
-Java             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+YAML             3 hrs 25 mins   ███████████████░░░░░░░░░░   60.04 %
+Docker           49 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.35 %
+Kotlin           49 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.35 %
+Properties       12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
+EditorConfig     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+Java             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
 ```
 
 <!--END_SECTION:waka-->
