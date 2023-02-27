@@ -32,12 +32,12 @@ src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=androi
 <!--START_SECTION:waka-->
 
 ```text
-Rust              1 hr 57 mins    █████████▒░░░░░░░░░░░░░░░   37.03 %
-YAML              1 hr 51 mins    ████████▓░░░░░░░░░░░░░░░░   35.18 %
-Docker            40 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.81 %
-TOML              21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
-ObjectiveC        7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-C                 5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+Rust              1 hr 56 mins    ███████████░░░░░░░░░░░░░░   44.65 %
+YAML              1 hr 12 mins    ███████░░░░░░░░░░░░░░░░░░   27.71 %
+Kotlin            25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 %
+TOML              21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 %
+ObjectiveC        7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
+C                 5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
 ```
 
 <!--END_SECTION:waka-->
