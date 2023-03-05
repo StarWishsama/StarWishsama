@@ -32,9 +32,9 @@ src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=androi
 <!--START_SECTION:waka-->
 
 ```text
-Rust             1 hr 56 mins    ████████░░░░░░░░░░░░░░░░░   31.78 %
-Kotlin           57 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.73 %
-Other            47 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.83 %
+Java             3 hrs 52 mins   ███████████▓░░░░░░░░░░░░░   46.04 %
+Kotlin           1 hr 27 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.32 %
+Other            47 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 %
 ```
 
 <!--END_SECTION:waka-->
