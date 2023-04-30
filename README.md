@@ -32,12 +32,12 @@ src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=androi
 <!--START_SECTION:waka-->
 
 ```text
-Rust             4 hrs 42 mins   ██████████████▒░░░░░░░░░░   57.82 %
-JavaScript       53 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.01 %
-Java             50 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.28 %
-YAML             36 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
-TOML             21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
-JSON             18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
+Rust             4 hrs 42 mins   █████████████░░░░░░░░░░░░   51.85 %
+Kotlin           2 hrs 36 mins   ███████▒░░░░░░░░░░░░░░░░░   28.78 %
+JavaScript       36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
+TOML             20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
+JSON             18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+Java             12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
 ```
 
 <!--END_SECTION:waka-->
