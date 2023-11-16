@@ -28,11 +28,11 @@ src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=androi
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js           6 hrs 52 mins   █████████████░░░░░░░░░░░░   52.06 %
-HTML             2 hrs 26 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.42 %
-Rust             1 hr 16 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.69 %
-CSS              48 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
-JSON             35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
+Vue.js           9 hrs 25 mins   ███████████████▓░░░░░░░░░   63.04 %
+HTML             2 hrs 26 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.37 %
+JSON             1 hr 16 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
+CSS              48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
+JavaScript       36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
 ```
 
 <!--END_SECTION:waka-->
