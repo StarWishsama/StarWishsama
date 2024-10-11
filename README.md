@@ -28,9 +28,10 @@ src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=androi
 <!--START_SECTION:waka-->
 
 ```txt
-Java   35 mins         █████████████████████████   99.75 %
-YAML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-XML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Java             51 mins         ████████████████████████▓   99.09 %
+XML              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+YAML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
