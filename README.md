@@ -28,9 +28,8 @@ src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=androi
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript           51 mins         ████████████████████████▒   97.18 %
-JSON with Comments   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
-JSON                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+TypeScript   20 mins         █████████████████████████   99.93 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
