@@ -28,11 +28,11 @@ src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=androi
 <!--START_SECTION:waka-->
 
 ```txt
-Java              8 hrs 39 mins   ███████████████░░░░░░░░░░   60.57 %
-YAML              2 hrs 1 min     ███▓░░░░░░░░░░░░░░░░░░░░░   14.12 %
-Kotlin            1 hr 47 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.56 %
-Gradle            32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
-Groovy            25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
+Java              8 hrs 42 mins   ████████████████░░░░░░░░░   63.52 %
+Kotlin            1 hr 51 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.50 %
+YAML              1 hr 28 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 %
+Gradle            32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
+Groovy            25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
 ```
 
 <!--END_SECTION:waka-->
