@@ -28,11 +28,11 @@ src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=androi
 <!--START_SECTION:waka-->
 
 ```txt
-Java              16 hrs 41 mins  ████████████████░░░░░░░░░   64.34 %
-YAML              5 hrs 35 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.54 %
-Docker            1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
-Python            1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
-XML               21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+Java              16 hrs 32 mins  ████████████████▓░░░░░░░░   66.48 %
+YAML              5 hrs 12 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.92 %
+Docker            1 hr 9 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
+Python            1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
+textmate          19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
 ```
 
 <!--END_SECTION:waka-->
