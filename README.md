@@ -29,7 +29,7 @@ src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=androi
 
 ```txt
 Vue.js       9 hrs 50 mins         ██████████░░░░░░░░░░░░░░░   39.43 %
-Java         8 hrs 49 mins         █████████░░░░░░░░░░░░░░░░   35.35 %
+Java         8 hrs 49 mins         █████████░░░░░░░░░░░░░░░░   35.36 %
 XML          3 hrs 3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.22 %
 JavaScript   1 hr 19 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
 JSON         52 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
