@@ -28,11 +28,11 @@ src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=androi
 <!--START_SECTION:waka-->
 
 ```txt
-Java                  14 hrs 35 mins        ██████████▓░░░░░░░░░░░░░░   42.09 %
-Other                 13 hrs 14 mins        █████████▓░░░░░░░░░░░░░░░   38.18 %
-Markdown              4 hrs 34 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.21 %
-Vue                   53 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
-JSON                  19 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+Java                  14 hrs 4 mins         ██████████░░░░░░░░░░░░░░░   40.62 %
+Other                 12 hrs 54 mins        █████████▒░░░░░░░░░░░░░░░   37.25 %
+Markdown              3 hrs 47 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 %
+Vue                   1 hr 36 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
+XML                   36 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
 ```
 
 <!--END_SECTION:waka-->
